@@ -1,0 +1,326 @@
+>--------------------------------------------------------------------------<
+> Acao: Criar usuario
+> Data: 08-08-2022 15:48:46
+> Usuario: carlos
+> Grupo: GRP_ADM
+> Diretorio: adm
+> Permissao: 770
+> Status: Usuario ja existe
+>--------------------------------------------------------------------------<
+> Acao: Criar usuario
+> Data: 08-08-2022 15:48:46
+> Usuario: maria
+> Grupo: GRP_ADM
+> Diretorio: adm
+> Permissao: 770
+> Status: Usuario ja existe
+>--------------------------------------------------------------------------<
+> Acao: Criar usuario
+> Data: 08-08-2022 15:48:46
+> Usuario: joao_
+> Grupo: GRP_ADM
+> Diretorio: adm
+> Permissao: 770
+> Status: Usuario ja existe
+>--------------------------------------------------------------------------<
+> Acao: Criar usuario
+> Data: 08-08-2022 15:48:46
+> Usuario: debora
+> Grupo: GRP_VEN
+> Diretorio: ven
+> Permissao: 770
+> Status: Usuario ja existe
+>--------------------------------------------------------------------------<
+> Acao: Criar usuario
+> Data: 08-08-2022 15:48:46
+> Usuario: sebastiana
+> Grupo: GRP_VEN
+> Diretorio: ven
+> Permissao: 770
+> Status: Usuario ja existe
+>--------------------------------------------------------------------------<
+> Acao: Criar usuario
+> Data: 08-08-2022 15:48:46
+> Usuario: roberto
+> Grupo: GRP_VEN
+> Diretorio: ven
+> Permissao: 770
+> Status: Usuario ja existe
+>--------------------------------------------------------------------------<
+> Acao: Criar usuario
+> Data: 08-08-2022 15:48:46
+> Usuario: josefina
+> Grupo: GRP_SEC
+> Diretorio: sec
+> Permissao: 770
+> Status: Usuario ja existe
+>--------------------------------------------------------------------------<
+> Acao: Criar usuario
+> Data: 08-08-2022 15:48:46
+> Usuario: amanda
+> Grupo: GRP_SEC
+> Diretorio: sec
+> Permissao: 770
+> Status: Usuario ja existe
+>--------------------------------------------------------------------------<
+> Acao: Criar usuario
+> Data: 08-08-2022 15:48:46
+> Usuario: rogerio
+> Grupo: GRP_SEC
+> Diretorio: sec
+> Permissao: 770
+> Status: Usuario ja existe
+>--------------------------------------------------------------------------<
+> Acao: Criar usuario
+> Data: 08-08-2022 15:51:00
+> Usuario: carlos
+> Grupo: GRP_ADM
+> Diretorio: adm
+> Permissao: 770
+> Status: Usuario ja existe
+>--------------------------------------------------------------------------<
+> Acao: Criar usuario
+> Data: 08-08-2022 15:51:00
+> Usuario: maria
+> Grupo: GRP_ADM
+> Diretorio: adm
+> Permissao: 770
+> Status: Usuario ja existe
+>--------------------------------------------------------------------------<
+> Acao: Criar usuario
+> Data: 08-08-2022 15:51:00
+> Usuario: joao_
+> Grupo: GRP_ADM
+> Diretorio: adm
+> Permissao: 770
+> Status: Usuario ja existe
+>--------------------------------------------------------------------------<
+> Acao: Criar usuario
+> Data: 08-08-2022 15:51:00
+> Usuario: debora
+> Grupo: GRP_VEN
+> Diretorio: ven
+> Permissao: 770
+> Status: Usuario ja existe
+>--------------------------------------------------------------------------<
+> Acao: Criar usuario
+> Data: 08-08-2022 15:51:00
+> Usuario: sebastiana
+> Grupo: GRP_VEN
+> Diretorio: ven
+> Permissao: 770
+> Status: Usuario ja existe
+>--------------------------------------------------------------------------<
+> Acao: Criar usuario
+> Data: 08-08-2022 15:51:00
+> Usuario: roberto
+> Grupo: GRP_VEN
+> Diretorio: ven
+> Permissao: 770
+> Status: Usuario ja existe
+>--------------------------------------------------------------------------<
+> Acao: Criar usuario
+> Data: 08-08-2022 15:51:00
+> Usuario: josefina
+> Grupo: GRP_SEC
+> Diretorio: sec
+> Permissao: 770
+> Status: Usuario ja existe
+>--------------------------------------------------------------------------<
+> Acao: Criar usuario
+> Data: 08-08-2022 15:51:00
+> Usuario: amanda
+> Grupo: GRP_SEC
+> Diretorio: sec
+> Permissao: 770
+> Status: Usuario ja existe
+>--------------------------------------------------------------------------<
+> Acao: Criar usuario
+> Data: 08-08-2022 15:51:00
+> Usuario: rogerio
+> Grupo: GRP_SEC
+> Diretorio: sec
+> Permissao: 770
+> Status: Usuario ja existe
+>--------------------------------------------------------------------------<
+> Acao: Excluir usuario
+> Data: 08-08-2022 15:51:05
+> Usuario: carlos
+> Status: Usuario excluido
+>--------------------------------------------------------------------------<
+> Acao: Excluir usuario
+> Data: 08-08-2022 15:51:05
+> Usuario: maria
+> Status: Usuario excluido
+>--------------------------------------------------------------------------<
+> Acao: Excluir usuario
+> Data: 08-08-2022 15:51:06
+> Usuario: joao_
+> Status: Usuario excluido
+>--------------------------------------------------------------------------<
+> Acao: Excluir usuario
+> Data: 08-08-2022 15:51:06
+> Usuario: debora
+> Status: Usuario excluido
+>--------------------------------------------------------------------------<
+> Acao: Excluir usuario
+> Data: 08-08-2022 15:51:06
+> Usuario: sebastiana
+> Status: Usuario excluido
+>--------------------------------------------------------------------------<
+> Acao: Excluir usuario
+> Data: 08-08-2022 15:51:06
+> Usuario: roberto
+> Status: Usuario excluido
+>--------------------------------------------------------------------------<
+> Acao: Excluir usuario
+> Data: 08-08-2022 15:51:06
+> Usuario: josefina
+> Status: Usuario excluido
+>--------------------------------------------------------------------------<
+> Acao: Excluir usuario
+> Data: 08-08-2022 15:51:06
+> Usuario: amanda
+> Status: Usuario excluido
+>--------------------------------------------------------------------------<
+> Acao: Excluir usuario
+> Data: 08-08-2022 15:51:06
+> Usuario: rogerio
+> Status: Usuario excluido
+>--------------------------------------------------------------------------<
+> Acao: Criar diretorio
+> Data: 08-08-2022 15:51:11
+> Diretorio: publico
+> Status: Diretorio criado
+>--------------------------------------------------------------------------<
+> Acao: Criar diretorio
+> Data: 08-08-2022 15:51:11
+> Diretorio: adm
+> Status: Diretorio criado
+>--------------------------------------------------------------------------<
+> Acao: Criar diretorio
+> Data: 08-08-2022 15:51:11
+> Diretorio: ven
+> Status: Diretorio criado
+>--------------------------------------------------------------------------<
+> Acao: Criar diretorio
+> Data: 08-08-2022 15:51:11
+> Diretorio: sec
+> Status: Diretorio criado
+>--------------------------------------------------------------------------<
+> Acao: Excluir diretorio
+> Data: 08-08-2022 15:51:16
+> Diretorio: publico
+> Status: Diretorio excluido
+>--------------------------------------------------------------------------<
+> Acao: Excluir diretorio
+> Data: 08-08-2022 15:51:16
+> Diretorio: adm
+> Status: Diretorio excluido
+>--------------------------------------------------------------------------<
+> Acao: Excluir diretorio
+> Data: 08-08-2022 15:51:16
+> Diretorio: ven
+> Status: Diretorio excluido
+>--------------------------------------------------------------------------<
+> Acao: Excluir diretorio
+> Data: 08-08-2022 15:51:16
+> Diretorio: sec
+> Status: Diretorio excluido
+>--------------------------------------------------------------------------<
+> Acao: Listar usuarios
+> Data: 08-08-2022 15:51:20
+> Usuario: Solicitados
+> Status: Lista de usuarios concluida
+>--------------------------------------------------------------------------<
+> Acao: Criar usuario
+> Data: 08-08-2022 15:51:28
+> Usuario: carlos
+> Grupo: GRP_ADM
+> Diretorio: adm
+> Permissao: 770
+> Status: Usuario criado
+>--------------------------------------------------------------------------<
+> Acao: Criar usuario
+> Data: 08-08-2022 15:51:28
+> Usuario: maria
+> Grupo: GRP_ADM
+> Diretorio: adm
+> Permissao: 770
+> Status: Usuario criado
+>--------------------------------------------------------------------------<
+> Acao: Criar usuario
+> Data: 08-08-2022 15:51:28
+> Usuario: joao_
+> Grupo: GRP_ADM
+> Diretorio: adm
+> Permissao: 770
+> Status: Usuario criado
+>--------------------------------------------------------------------------<
+> Acao: Criar usuario
+> Data: 08-08-2022 15:51:28
+> Usuario: debora
+> Grupo: GRP_VEN
+> Diretorio: ven
+> Permissao: 770
+> Status: Usuario criado
+>--------------------------------------------------------------------------<
+> Acao: Criar usuario
+> Data: 08-08-2022 15:51:29
+> Usuario: sebastiana
+> Grupo: GRP_VEN
+> Diretorio: ven
+> Permissao: 770
+> Status: Usuario criado
+>--------------------------------------------------------------------------<
+> Acao: Criar usuario
+> Data: 08-08-2022 15:51:29
+> Usuario: roberto
+> Grupo: GRP_VEN
+> Diretorio: ven
+> Permissao: 770
+> Status: Usuario criado
+>--------------------------------------------------------------------------<
+> Acao: Criar usuario
+> Data: 08-08-2022 15:51:29
+> Usuario: josefina
+> Grupo: GRP_SEC
+> Diretorio: sec
+> Permissao: 770
+> Status: Usuario criado
+>--------------------------------------------------------------------------<
+> Acao: Criar usuario
+> Data: 08-08-2022 15:51:29
+> Usuario: amanda
+> Grupo: GRP_SEC
+> Diretorio: sec
+> Permissao: 770
+> Status: Usuario criado
+>--------------------------------------------------------------------------<
+> Acao: Criar usuario
+> Data: 08-08-2022 15:51:29
+> Usuario: rogerio
+> Grupo: GRP_SEC
+> Diretorio: sec
+> Permissao: 770
+> Status: Usuario criado
+>--------------------------------------------------------------------------<
+> Acao: Excluir diretorio
+> Data: 08-08-2022 15:52:18
+> Diretorio: publico
+> Status: Diretorio nao encontrado
+>--------------------------------------------------------------------------<
+> Acao: Excluir diretorio
+> Data: 08-08-2022 15:52:18
+> Diretorio: adm
+> Status: Diretorio excluido
+>--------------------------------------------------------------------------<
+> Acao: Excluir diretorio
+> Data: 08-08-2022 15:52:18
+> Diretorio: ven
+> Status: Diretorio excluido
+>--------------------------------------------------------------------------<
+> Acao: Excluir diretorio
+> Data: 08-08-2022 15:52:18
+> Diretorio: sec
+> Status: Diretorio excluido

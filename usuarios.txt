@@ -1,0 +1,9 @@
+carlos,GRP_ADM,adm,770
+maria,GRP_ADM,adm,770
+joao_,GRP_ADM,adm,770
+debora,GRP_VEN,ven,770
+sebastiana,GRP_VEN,ven,770
+roberto,GRP_VEN,ven,770
+josefina,GRP_SEC,sec,770
+amanda,GRP_SEC,sec,770
+rogerio,GRP_SEC,sec,770
