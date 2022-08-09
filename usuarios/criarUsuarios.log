@@ -324,3 +324,73 @@
 > Data: 08-08-2022 15:52:18
 > Diretorio: sec
 > Status: Diretorio excluido
+>--------------------------------------------------------------------------<
+> Acao: Excluir usuario
+> Data: 09-08-2022 16:27:18
+> Usuario: carlos
+> Status: Usuario excluido
+>--------------------------------------------------------------------------<
+> Acao: Excluir usuario
+> Data: 09-08-2022 16:27:18
+> Usuario: maria
+> Status: Usuario excluido
+>--------------------------------------------------------------------------<
+> Acao: Excluir usuario
+> Data: 09-08-2022 16:27:18
+> Usuario: joao_
+> Status: Usuario excluido
+>--------------------------------------------------------------------------<
+> Acao: Excluir usuario
+> Data: 09-08-2022 16:27:18
+> Usuario: debora
+> Status: Usuario excluido
+>--------------------------------------------------------------------------<
+> Acao: Excluir usuario
+> Data: 09-08-2022 16:27:18
+> Usuario: sebastiana
+> Status: Usuario excluido
+>--------------------------------------------------------------------------<
+> Acao: Excluir usuario
+> Data: 09-08-2022 16:27:18
+> Usuario: roberto
+> Status: Usuario excluido
+>--------------------------------------------------------------------------<
+> Acao: Excluir usuario
+> Data: 09-08-2022 16:27:18
+> Usuario: josefina
+> Status: Usuario excluido
+>--------------------------------------------------------------------------<
+> Acao: Excluir usuario
+> Data: 09-08-2022 16:27:18
+> Usuario: amanda
+> Status: Usuario excluido
+>--------------------------------------------------------------------------<
+> Acao: Excluir usuario
+> Data: 09-08-2022 16:27:19
+> Usuario: rogerio
+> Status: Usuario excluido
+>--------------------------------------------------------------------------<
+> Acao: Excluir diretorio
+> Data: 09-08-2022 16:27:23
+> Diretorio: publico
+> Status: Diretorio nao encontrado
+>--------------------------------------------------------------------------<
+> Acao: Excluir diretorio
+> Data: 09-08-2022 16:27:23
+> Diretorio: adm
+> Status: Diretorio nao encontrado
+>--------------------------------------------------------------------------<
+> Acao: Excluir diretorio
+> Data: 09-08-2022 16:27:23
+> Diretorio: ven
+> Status: Diretorio nao encontrado
+>--------------------------------------------------------------------------<
+> Acao: Excluir diretorio
+> Data: 09-08-2022 16:27:23
+> Diretorio: sec
+> Status: Diretorio nao encontrado
+>--------------------------------------------------------------------------<
+> Acao: Listar usuarios
+> Data: 09-08-2022 16:27:31
+> Usuario: Solicitados
+> Status: Lista de usuarios concluida
