@@ -1,0 +1,11 @@
+>*********< Arquivo de LOG inicializado >*********<
+> Data: 09-08-2022 10:22:28
+>*********<    Atualiza lista pacote    >*********<
+> Data: 09-08-2022 10:22:46
+Get:1 http://security.ubuntu.com/ubuntu focal-security InRelease [114 kB]
+Hit:2 http://ppa.launchpad.net/git-core/ppa/ubuntu focal InRelease
+Hit:3 http://archive.ubuntu.com/ubuntu focal InRelease
+Get:4 http://archive.ubuntu.com/ubuntu focal-updates InRelease [114 kB]
+Get:5 http://archive.ubuntu.com/ubuntu focal-backports InRelease [108 kB]
+Fetched 336 kB in 2s (161 kB/s)
+Reading package lists...
